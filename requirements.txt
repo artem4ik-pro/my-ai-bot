@@ -1,0 +1,2 @@
+aiogram~=3.19.0
+mistralai~=1.6.0
